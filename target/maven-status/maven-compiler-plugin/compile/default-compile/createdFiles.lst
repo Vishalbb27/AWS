@@ -1,0 +1,9 @@
+com\example\sportyShoes\entity\Shoe.class
+com\example\sportyShoes\entity\ShoeCategory.class
+com\example\sportyShoes\entity\PurchaseReport.class
+com\example\sportyShoes\SportyShoesApplication.class
+com\example\sportyShoes\controller\AdminLogin.class
+com\example\sportyShoes\repository\AdminLoginRepository.class
+com\example\sportyShoes\entity\Admin.class
+com\example\sportyShoes\controller\ResetPassword.class
+com\example\sportyShoes\entity\User.class
